@@ -1,7 +1,11 @@
 # LLM Frontier Wars 2025-2026: Multi-Model Segmentation & Benchmark Prediction
 ## A Comprehensive Study of Benchmarks, Pricing, and Model Performance
 ---
+<p align="center">
+  <img src="path_to_your_image.png" alt="LLM Frontier Wars Header Image" width="100%">
+</p>
 
+---
 ## 🚀  Project Overview
 In the rapidly evolving landscape of Artificial Intelligence, the "Benchmark Wars" are no longer just about raw power, but about the delicate balance between **reasoning capabilities, inference speed, and cost-efficiency**. 
 
