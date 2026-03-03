@@ -2,7 +2,7 @@
 ## A Comprehensive Study of Benchmarks, Pricing, and Model Performance
 ---
 <p align="center">
-  <img src="path_to_your_image.png" alt="LLM Frontier Wars Header Image" width="100%">
+  <img src="header.png" alt="LLM Frontier Wars Header Image" width="100%">
 </p>
 
 ---
